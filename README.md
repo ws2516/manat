@@ -17,7 +17,7 @@ u/BrilliantScarcity354
 
 QUICK GIT REFRESHERS:
 
-git clone https://github.com/axz2000/manat.git -- Use this to download the git repo (only need this for initial setup). Make sure you are in the desired directory, and it will create a folder named "sportsbook" with the repo.
+git clone https://github.com/ws2516/manat.git -- Use this to download the git repo (only need this for initial setup). Make sure you are in the desired directory, and it will create a folder named "sportsbook" with the repo.
 
 git pull -- run this command before editing files always. Since for now we will be working together in the main branch, this will make sure you get the latest changes updated locally (will download all changes to the repo since last edit).
 
