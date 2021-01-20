@@ -38,3 +38,5 @@ some file running tips
 "processor.py" is meant to be run once a day after interpretor, this yields the relevant bets and kelly weights of all bets for the coming day
 
 ACKNOwLEDGMENTS: We would like to acknowledge the work created by 538 which we incorporate into many of our systems and has been an incredible resource, we wish to give credit where credit is due and hope to do more to bring people into the world of probabilistic sports outcomes and informed betting.
+
+Feel free to ping us on Reddit or on the following email: BrilliantScarcity354@gmail.com
