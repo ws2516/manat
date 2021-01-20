@@ -8,7 +8,7 @@ You are here, you have made it, you are at what will become the greatest sports 
 There is only one real rule:
 DO NOT OVERWRITE WHEN YOU PUSH, make a folder of your materials and push to that, feel free to pull others but DO NOT WRITE OVER. We will be approving git push requests so if we see such actions we will deny the push and ask what the issue is.
 
-This repo is by no means a final product, let it be a toolbox, sandbox, whatever it is the kids call it these days, remember, you are not competing against anytone here, we can all work together to beat the book, and I have no doubt we can. Now in the coming days we will be talking about how to incorporate models here to be shared with the Manat ecosystem so we can all track and let people lose money while they fade.
+This repo is by no means a final product, let it be a toolbox, sandbox, whatever it is the kids call it these days, remember, you are not competing against anyone here, we can all work together to beat the book, and I have no doubt we can. Now in the coming days we will be talking about how to incorporate models here to be shared with the Manat ecosystem so we can all track and let people lose money while they fade.
 
 From all of us here at Manat, we hope this space flourishes, invite your friend, invite everyone, experienced coder or novice, but lets make something special.
 
