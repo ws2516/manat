@@ -1,0 +1,8 @@
+tabulate
+requests
+pandas
+numpy
+scipy
+matplotlib
+beautifulsoup4
+fuzzywuzzy
