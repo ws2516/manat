@@ -1,5 +1,5 @@
 # Manat Methods
-A Collaborative Effort To Find Value In Sports Betting
+A Collaborative Effort To Find Value
 
 You are here, you have made it, you are at what will become the greatest sports betting repository of our generation, or not who knows.
 
