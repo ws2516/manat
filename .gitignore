@@ -1,0 +1,5 @@
+# remove Byte-compiled / optimized / DLL files (caches)
+__pycache__/
+*.py[cod]
+*$py.class
+
